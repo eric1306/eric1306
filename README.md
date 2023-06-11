@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=left><h1> Techs </h1></div>
+ <img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <!--
 **eric1306/eric1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
