@@ -2,14 +2,36 @@
 
 ### Welcome to eric1306's github 👋
 
-Hi, My name is Keonwoo Kang. 
+Hi, My name is Keonwoo Kang.
+
 I am currently studying Unity, but I am also interested in Blender and Unreal Engine and studying them together.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 
-<div style="display:flex; flex-direction:row;">
+## Contact
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="mailto:prid1306@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
+
+## I've used
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
+        <img src="https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white">
+    </div>
+    <!-- Others -->
+    <p><strong>Others</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Blender%20-%20%23E87D0D?style=flat-square&logo=Blender&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+</div><br>
