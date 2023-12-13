@@ -33,5 +33,6 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Blender%20-%20%23E87D0D?style=flat-square&logo=Blender&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Github%20-%20%23181717?style=flat-square&logo=Github&logoColor=white">
 </div><br>
