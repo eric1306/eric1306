@@ -1,5 +1,10 @@
-# Welcome to eric1306's github 👋
+![header](https://capsule-render.vercel.app/api?
+type=Cylinder&color=timeGradient&text=eric1306
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-![unity](https://github.com/eric1306/eric1306/assets/64396933/6cb59868-2e8c-480d-8279-765569dfb550)<svg role="img" viewBox="0 0 4 4" xmlns="http://www.w3.org/2000/svg"><title>Unity</title><path d="m12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z"/></svg>
+### Welcome to eric1306's github 👋
+
+Hi, My name is Keonwoo Kang. I'm game developer.
+I am currently studying Unity, but I am also interested in Blender and Unreal Engine and studying them together.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
