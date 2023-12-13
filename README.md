@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=eric1306's%20Github&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=130&section=header&text=eric1306's%20Github&fontSize=48)
 
 ### Welcome to eric1306's github 👋
 
