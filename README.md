@@ -15,7 +15,7 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
     </a>
 </div>
 
-## I've used
+## I've mainly used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Database -->
     <p><strong>Database</strong></p>
