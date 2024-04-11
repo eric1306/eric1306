@@ -14,7 +14,7 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
-/--
+
 ## Main Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Database -->
@@ -36,4 +36,4 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Github%20-%20%23181717?style=flat-square&logo=Github&logoColor=white">
 </div><br>
---/
+
