@@ -8,6 +8,8 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Contact
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="mailto:prid1306@gmail.com">
