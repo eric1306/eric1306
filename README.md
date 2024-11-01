@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B897FFheight=100&section=header&text=eric1306's%20Github&fontSize=48)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### Welcome to eric1306's github 👋
 
 Hi, My name is Keonwoo Kang.
