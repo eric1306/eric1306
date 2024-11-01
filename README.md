@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=b897ff&height=300&section=header&text=eric1306's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=b897ff&height=150&section=header&text=eric1306's%20github&fontSize=90)
 
 ### Welcome to eric1306's github 👋
 
