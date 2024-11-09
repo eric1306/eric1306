@@ -19,6 +19,12 @@ I am currently studying Unity, but I am also interested in Blender and Unreal En
 
 ## Main Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Programming Language -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
