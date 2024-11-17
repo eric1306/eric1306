@@ -4,7 +4,7 @@
 
 Hi, My name is Keonwoo Kang.
 
-I am currently studying Unity, but I am also interested in Blender and Unreal Engine and studying them together.
+I am currently studying Unreal Engine, GAS, C++, Server Programming and Unity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 
