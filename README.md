@@ -19,7 +19,7 @@ I am currently studying Unreal Engine, GAS, C++, Server Programming and Unity
 
 ## Main Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>PL</strong></p>
+    <p><strong>Programming Language</strong></p>
     <div>
         <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
