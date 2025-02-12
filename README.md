@@ -7,7 +7,7 @@ Hi, My name is Keonwoo Kang.
 I am currently studying Unreal Engine, GAS Framework, C++, Server Programming
 
 ![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric1306&langs_count=8)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric1306)](https://solved.ac/eric1306/)
 
 
