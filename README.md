@@ -4,9 +4,9 @@
 
 Hi, My name is Keonwoo Kang.
 
-I am currently studying Unreal Engine, GAS Framework, C++, Server Programming and Unity
+I am currently studying Unreal Engine, GAS Framework, C++, Server Programming
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
+![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric1306)](https://solved.ac/eric1306/)
 
