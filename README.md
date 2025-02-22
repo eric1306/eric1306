@@ -24,27 +24,19 @@ I am currently studying Unreal Engine, GAS Framework, C++, Server Programming
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Programming Language</strong></p>
     <div>
+        <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-        <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     </div>
-    <!-- Database -->
-    <!--<p><strong>Database</strong></p>
+    <p><strong>Game Engine</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
         <img src="https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white">
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Blender%20-%20%23E87D0D?style=flat-square&logo=Blender&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Github%20-%20%23181717?style=flat-square&logo=Github&logoColor=white">
 </div><br>
