@@ -4,7 +4,7 @@
 
 Hi, My name is Keonwoo Kang.
 
-I am currently studying Unreal Engine, GAS Framework, C++, Server Programming
+I am currently studying Unreal Engine, Lyra and Directx11
 
 ![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric1306&langs_count=8)
