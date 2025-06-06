@@ -6,12 +6,8 @@ Hi, My name is Keonwoo Kang.
 
 I am currently studying C++, Unreal Engine 5 and DirectX11
 
-I want to be a game developer.
-
 ![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric1306&langs_count=8)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric1306)](https://solved.ac/eric1306/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=eric1306&theme=dark)
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feric1306&s=40&c=1ac1ae&bg=00000000&no=3&ff=electrolize&tb=Hit%3A+&ta=)
 
 ## Contact
