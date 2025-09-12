@@ -28,7 +28,6 @@ I am currently studying C++, Unreal Engine 5 and DirectX11
     <p><strong>Game Engine</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white">
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
