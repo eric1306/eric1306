@@ -4,9 +4,7 @@
 
 Hi, My name is Keonwoo Kang.
 
-I am currently studying C++, Unreal Engine 5 and DirectX11
-
-![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
+I am currently studying C++, Unreal Engine 5 and Graphics
 
 ## Contact
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -24,6 +22,11 @@ I am currently studying C++, Unreal Engine 5 and DirectX11
     <p><strong>Game Engine</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white">
+    </div>
+    <p><strong>Graphics Library</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/DirectX-%FFFFFFFF.svg?style=for-the-badge&logo=directx">
+        <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
