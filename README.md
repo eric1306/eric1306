@@ -4,7 +4,11 @@
 
 Hi, My name is Keonwoo Kang.
 
-I am currently studying C++, Unreal Engine 5 and Graphics
+I'm currently studying C++, Unreal Engine 5 and Computer Graphics
+
+![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric1306&layout=compact)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eric1306)](https://solved.ac/eric1306)
 
 ## Contact
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -17,6 +21,7 @@ I am currently studying C++, Unreal Engine 5 and Graphics
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Programming Language</strong></p>
     <div>
+        <img src = "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
         <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </div>
     <p><strong>Game Engine</strong></p>
@@ -25,13 +30,14 @@ I am currently studying C++, Unreal Engine 5 and Graphics
     </div>
     <p><strong>Graphics Library</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/DirectX-%FFFFFFFF.svg?style=for-the-badge&logo=directx">
-        <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
+        <img src="https://img.shields.io/badge/DirectX-%FFFFFF.svg?style=for-the-badge&logo=directx">
+        <img src="https://img.shields.io/badge/OpenGL-%23FFFF.svg?style=for-the-badge&logo=opengl">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Github%20-%20%23181717?style=flat-square&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/CMake%20-%20%23181717?style=flat-square&logo=cmake&logoColor=white">
 </div><br>
 
