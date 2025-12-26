@@ -6,8 +6,6 @@ Hi, My name is Keonwoo Kang.
 
 I'm currently studying C++, Unreal Engine 5 and Computer Graphics
 
-![eric1306's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric1306&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric1306&layout=compact)
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eric1306)](https://solved.ac/eric1306)
 
 ## Contact
